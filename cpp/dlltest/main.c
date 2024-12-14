@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
    
     pfn fn;
     printf("loading DLL\n");
-    HMODULE h = LoadLibrary("output.dll");
+    HMODULE h = LoadLibrary("mydll.dll");
     if (h) {
         printf("DLL loaded succesfully\n");
     } else {
