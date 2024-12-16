@@ -1,7 +1,7 @@
 #include <windows.h>
 #include <stdio.h>
 
-typedef void (*pfn)(void);
+typedef void (*pfn)(const wchar_t *);
 
 int main(int argc, char *argv[]) {
     // kernel32.dll is a known DLL,
@@ -15,9 +15,10 @@ int main(int argc, char *argv[]) {
    
     pfn fn;
     printf("loading DLL\n");
-    HMODULE h = LoadLibrary("mydll.dll");
+    HMODULE h = LoadLibrary("output.dll");
     if (h) {
         printf("DLL loaded succesfully\n");
+        printf(h);
     } else {
         printf("Error loading DLL: %d\n", GetLastError());
         return 1;
@@ -25,7 +26,9 @@ int main(int argc, char *argv[]) {
 
     fn = (pfn)GetProcAddress(h, "print_hello");
     if (fn) {
-        fn(); // call the function
+        // Call the function
+        const wchar_t *message = L"world";
+        fn(message);
     } else {
         printf("Error: Could not get function address: %d\n", GetLastError());
     }
