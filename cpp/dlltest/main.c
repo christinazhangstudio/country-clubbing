@@ -16,6 +16,18 @@ int main(int argc, char *argv[]) {
     pfn fn;
     printf("loading DLL\n");
     HMODULE h = LoadLibrary("output.dll");
+
+    // WHEN LOADING FROM ANOTHER LOCATION...
+    // THIS DOESN'T WORK:
+    //HMODULE h = LoadLibrary("C:\\Program Files\\some_party\\B30\\win_b64\\code\\bin\\some_party.dll");
+    
+    // THIS WORKS!
+    //SetDllDirectory("C:\\Program Files\\some_party\\B30\\win_b64\\code\\bin");
+    //HMODULE h = LoadLibrary("some_party.dll");
+    // https://learn.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-security?redirectedfrom=MSDN maybe?
+    // putting this in PATH env *should* work
+
+    
     if (h) {
         printf("DLL loaded succesfully\n");
         printf(h);
