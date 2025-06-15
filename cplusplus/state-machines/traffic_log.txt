@@ -1,0 +1,928 @@
+North-South changed to RED at time 0
+East-West changed to GREEN at time 0
+pedestrian signal changed to DON'T WALK at time 0
+
+time step 0: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 1: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 2: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 3: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 4: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 5: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 6: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 7: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 8: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 9: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 10: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 11: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 12: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 13: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 14: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 15: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 16: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 17: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 18: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+East-West changed to YELLOW at time 0
+
+time step 19: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 20: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 21: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 22: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 23: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+East-West changed to RED at time 0
+pedestrian signal changed to WALK at time 0
+
+time step 24: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 25: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 26: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 27: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 28: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 29: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 30: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 31: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 32: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 33: 
+NS = RED
+EW = RED
+Ped = WALK
+
+pedestrian signal changed to DON'T WALK at time 0
+
+time step 34: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+North-South changed to GREEN at time 0
+
+time step 35: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 36: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 37: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 38: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 39: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 40: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 41: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 42: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 43: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 44: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 45: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 46: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 47: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 48: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 49: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 50: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 51: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 52: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 53: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+East-West changed to GREEN at time 0
+
+time step 54: 
+NS = GREEN
+EW = GREEN
+Ped = DON'T WALK
+
+North-South changed to YELLOW at time 0
+
+time step 55: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 56: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 57: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 58: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 59: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+North-South changed to RED at time 0
+
+time step 60: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 61: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 62: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 63: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 64: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 65: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 66: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 67: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 68: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 69: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 70: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 71: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 72: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 73: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+East-West changed to YELLOW at time 0
+
+time step 74: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 75: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 76: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 77: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 78: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+East-West changed to RED at time 0
+
+time step 79: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+pedestrian signal changed to WALK at time 0
+
+time step 80: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 81: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 82: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 83: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 84: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 85: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 86: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 87: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 88: 
+NS = RED
+EW = RED
+Ped = WALK
+
+
+time step 89: 
+NS = RED
+EW = RED
+Ped = WALK
+
+pedestrian signal changed to DON'T WALK at time 0
+
+time step 90: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+North-South changed to GREEN at time 0
+
+time step 91: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 92: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 93: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 94: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 95: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 96: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 97: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 98: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 99: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 100: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 101: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 102: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 103: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 104: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 105: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 106: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 107: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 108: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+East-West changed to GREEN at time 0
+
+time step 109: 
+NS = GREEN
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 110: 
+NS = GREEN
+EW = GREEN
+Ped = DON'T WALK
+
+North-South changed to YELLOW at time 0
+
+time step 111: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 112: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 113: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 114: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 115: 
+NS = YELLOW
+EW = GREEN
+Ped = DON'T WALK
+
+North-South changed to RED at time 0
+
+time step 116: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 117: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 118: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 119: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 120: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 121: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 122: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 123: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 124: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 125: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 126: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 127: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+
+time step 128: 
+NS = RED
+EW = GREEN
+Ped = DON'T WALK
+
+East-West changed to YELLOW at time 0
+
+time step 129: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 130: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 131: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 132: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+
+time step 133: 
+NS = RED
+EW = YELLOW
+Ped = DON'T WALK
+
+East-West changed to RED at time 0
+
+time step 134: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 135: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 136: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 137: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 138: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 139: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 140: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 141: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 142: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 143: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 144: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+
+time step 145: 
+NS = RED
+EW = RED
+Ped = DON'T WALK
+
+North-South changed to GREEN at time 0
+
+time step 146: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 147: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 148: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 149: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
+
+time step 150: 
+NS = GREEN
+EW = RED
+Ped = DON'T WALK
+
